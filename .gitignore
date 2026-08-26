@@ -1,1 +1,8 @@
 .env
+/gitlab_online_practice/**/data/
+/book/easy-book/gemma_jeju_lora/
+/book/easy-book/outputs/
+/book/easy-book/unsloth_compiled_cache/
+/book/easy-book/unsloth_training_checkpoints/
+/gitlab_online_practice/outputs-text2sql/
+/gitlab_online_practice/unsloth_compiled_cache/
